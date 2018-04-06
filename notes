@@ -1,0 +1,2 @@
+Inspect sawyer object:
+puts sawyer_obg.inspect()
